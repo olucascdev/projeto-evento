@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Lucas Correia')
+@section('title', 'Principal')
 @section('content')
     <h1>Algum título</h1>
     <img src="/img/evento1.jpg" alt="">
